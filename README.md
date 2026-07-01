@@ -28,4 +28,5 @@ Relay gets triggered and turns ON water pump
 Water flows through tube to plants
 When soil becomes WET → relay turns OFF pump automatically
 ## Working Flow
-
+![Working Flow](<working flow agree.png>)
+##
