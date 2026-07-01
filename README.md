@@ -5,11 +5,11 @@ This project is an automatic agriculture irrigation system without using Arduino
 It automatically detects soil moisture and controls a water pump using a relay circuit.
 The system helps in reducing water wastage and automating plant irrigation using simple electronic components.
 ## Objective
-Automatically monitor soil moisture level
-Turn ON/OFF water pump based on soil condition
-Reduce manual irrigation work
-Build a low-cost smart irrigation system
-No Arduino / programming required
+*Automatically monitor soil moisture level
+*Turn ON/OFF water pump based on soil condition
+*Reduce manual irrigation work
+*Build a low-cost smart irrigation system
+*No Arduino / programming required
 ## Components Used
 🌱 Soil Moisture Sensor Probe – Detects moisture level in soil
 🔌 Soil Moisture Sensor Module (LM393) – Converts sensor signal into digital output
@@ -20,13 +20,13 @@ No Arduino / programming required
 🔗 Connecting Wires – For circuit connections
 🚿 Water Tube – Transfers water from pump to plants
 ## Working Principle
-Soil moisture probe is placed in the soil
-It detects the moisture level
-LM393 module compares the value and gives digital output
-If soil is DRY → output becomes HIGH
-Relay gets triggered and turns ON water pump
-Water flows through tube to plants
-When soil becomes WET → relay turns OFF pump automatically
+*Soil moisture probe is placed in the soil
+*It detects the moisture level
+*LM393 module compares the value and gives digital output
+*If soil is DRY → output becomes HIGH
+*Relay gets triggered and turns ON water pump
+*Water flows through tube to plants
+*When soil becomes WET → relay turns OFF pump automatically
 ## Working Flow
 ![Working Flow](<Working Flow Agri.png>)
 ## Circuit Diagram
@@ -34,8 +34,8 @@ When soil becomes WET → relay turns OFF pump automatically
 ## Project Image
 ![Project Image](<Agri Real Image.jpeg>)
  ## Features
-Automatic irrigation based on soil moisture
-Water-saving system
-Low-cost design
-Easy to install
+*Automatic irrigation based on soil moisture
+*Water-saving system
+*Low-cost design
+*Easy to install
 
