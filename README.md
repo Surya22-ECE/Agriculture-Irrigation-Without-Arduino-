@@ -30,7 +30,7 @@ When soil becomes WET → relay turns OFF pump automatically
 ## Working Flow
 ![Working Flow](<Working Flow Agri.png>)
 ## Circuit Diagram
-![Circuit Diagram](ari-circuit-Image.jpg)
+![Circuit Diagram](<ari circuit Image.jpg>)
 ## Project Image
-![Project Image](Agri-Real-Image.jpeg)
+![Project Image](<Agri Real Image.jpeg>)
 
