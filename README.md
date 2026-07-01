@@ -33,4 +33,9 @@ When soil becomes WET → relay turns OFF pump automatically
 ![Circuit Diagram](<ari circuit Image.jpeg>)
 ## Project Image
 ![Project Image](<Agri Real Image.jpeg>)
+ ## Features
+Automatic irrigation based on soil moisture
+Water-saving system
+Low-cost design
+Easy to install
 
